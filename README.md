@@ -5,9 +5,9 @@ It can be execute with a simple python command, it is mandatory to use three par
 
 This are the mandatory parameters:
 
-* "-s" "--SUMMONER": Summoner Name.
-* "-r" "--REGION": Region (check -h --help for correct notation.).
-* "-k" "--KEY": Riot api key (A private key provided by Riot to utilize their apis ).
+* -s --SUMMONER : Summoner Name.
+* -r --REGION : Region (check -h --help for correct notation.).
+* -k --KEY : Riot api key (A private key provided by Riot to utilize their apis ).
 
 ## How to use localy
 
