@@ -3,7 +3,7 @@ A console application that gets the lasts ten matches results of a summoner in L
 
 ## How to use localy
 
-It can be execute with a simple python command, it is mandatory to use three parameters to make it work.
+It can be execute with a simple python command, it is mandatory to use three parameters to make it work:
     * "-s" "--SUMMONER": Summoner Name.
     * "-r" "--REGION": Region (check -h --help for correct notation.).
     * "-k" "--KEY": Riot api key (A private key provided by Riot to utilize their apis ).
