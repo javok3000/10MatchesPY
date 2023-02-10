@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-import argparse
+import argparse, requests, json, pprint
 from argparse import RawTextHelpFormatter
-import requests
-import json
-import pprint
 
 parser = argparse.ArgumentParser(formatter_class=RawTextHelpFormatter, description='Little api challenge to see last 10 matches of a lol player.',prog='10 last martches')
 parser.add_argument('-s','--summoner', type=str,help='Summoner name',required=True)

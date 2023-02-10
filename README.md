@@ -11,6 +11,13 @@ These are the mandatory parameters:
 
 ## How to use locally
 
+1. Install requirements:
+
+```bash
+    $python3 -m pip install -r requirements.txt
+```
+2. Run App:
+
 ```bash
     $python3 prueba.py -s <SummonerName> -r <REGION> -k <API_KEY>
 ```
