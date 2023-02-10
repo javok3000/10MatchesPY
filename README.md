@@ -1,9 +1,7 @@
 # Description
 A console application that gets the last ten match results in League of Legends by summoner name. Can be used in a *Docker Container*
 
-It can be executed with a simple python command, it is mandatory to use three parameters to make it work.
-
-These are the mandatory parameters:
+It can be executed with a simple python command. However it is mandatory to use the following parameters:
 
 * -s,  --SUMMONER : Summoner Name.
 * -r,  --REGION : Region (check -h --help for correct notation.).
