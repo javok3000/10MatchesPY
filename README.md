@@ -26,5 +26,5 @@ First go to [docker hub](https://hub.docker.com/r/javo3000/10matchespy/tags) and
 After download:
 
 ```bash
-    $docker run javo3000/10matchespy:latest -s <SummonerName> -r <REGION> -k <API_KEY>
+    $docker run javo3000/10matchespy:latest python prueba.py -s <SummonerName> -r <REGION> -k <API_KEY>
 ```
