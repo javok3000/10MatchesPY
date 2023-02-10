@@ -14,7 +14,7 @@ It can be execute with a simple python command, it is mandatory to use three par
 
 # How to use with Docker
 
-First go to [docker hub](https://hub.docker.com/r/javo3000/10matchespy/tags) and search for the image tag you want. or follow the next commands:
+First go to [docker hub](https://hub.docker.com/r/javo3000/10matchespy/tags) and search for the image tag. or follow the next commands:
 
 ```bash
     $docker pull javo3000/10matchespy:latest
